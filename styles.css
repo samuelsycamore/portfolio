@@ -8,7 +8,7 @@ body {
   font-family: 'DM Sans', sans-serif;
   font-size: 17px;
   text-rendering: optimizeLegibility;
-  background-color: #f0f1f4;
+  background-color: #faf2d9;
   color: #060e27;
   width: 100%;
   margin: 0 auto;
@@ -65,7 +65,12 @@ section {
   color: #f0f1f4;
 }
 
-.project {
+.portfolio a {
+  color: #bebebe;
+}
+
+.portfolio li {
+  color: #faf2d9;
 }
 
 ul {
@@ -82,7 +87,6 @@ ul {
 }
 
 footer {
-  background-color: #f0f1f4;
   margin: 30px;
   text-align: center;
 }
